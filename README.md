@@ -9,3 +9,6 @@ make sudoku.x
 ./sudoku.x "input_name.txt" (for worker threads)
 
 ./sudoku.x "input_name.txt" -f (for child processes)
+
+
+You can also skip the compilation step and run sudoku.x (included) with any input file.
