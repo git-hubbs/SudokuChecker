@@ -1,5 +1,5 @@
 # SudokuChecker
-The purpose of this sudoku solution checker was to explore methods of parallel processing using worker threads and child processes, while not directly communicating between them or using any global variables. 
+The purpose of this sudoku solution checker was to explore methods of parallel processing using worker threads and child processes for my OS class, while not directly communicating between them or using any global variables. 
 # Running
 As this was built in C on a Linux machine, we can run it with the following command(s):
 
